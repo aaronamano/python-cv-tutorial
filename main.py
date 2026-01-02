@@ -1,5 +1,4 @@
-# read, resize, rotate an image
-# display and save new image
+# tutorial 1
 import cv2
 
 # read image
