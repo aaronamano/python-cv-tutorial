@@ -17,8 +17,9 @@ for i in range(100):
 
 # (1200, 555, 3)
 
-tag = img[500:700, 800:1000]
-img[200:400, 600:800] = tag
+# manipulate image by copying part of an image and pasting it on a different part of an image
+tag = img[100:300, 50:250]
+img[400:600, 300:500] = tag
 
 cv2.imshow('Image', img)
 cv2.waitKey(0)
