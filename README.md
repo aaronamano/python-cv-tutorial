@@ -1,5 +1,5 @@
 ## Overview
-[https://youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&si=E0d2r1nSqisBtDwp](OpenCV Python Tutorials) playlist by Tech With Tim
+[OpenCV Python Tutorials](https://youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&si=E0d2r1nSqisBtDwp) playlist by Tech With Tim
 
 ## Setup
 ```bash
